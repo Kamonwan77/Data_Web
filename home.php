@@ -73,4 +73,46 @@
 
         <!-- Page Content -->
         <!-- Banner Starts Here -->
-        
+        <div class="main-banner header-text" id="top">
+            <div class="container">
+                <!-- Item -->
+                <div class="item item-1">
+                    <div class="img-fill">
+                        <div class="text-content">
+                        </div>     
+                    </div>
+                </div>
+                <!-- // Item -->
+                <!-- Item -->
+                <div class="item item-2">
+                    <div class="img-fill">
+                        <div class="text-content">
+                        </div>     
+                    </div>
+                </div>
+                <!-- // Item -->
+                <!-- Item -->
+                <div class="item item-3">
+                    <div class="img-fill">
+                        <div class="text-content">
+                        </div>     
+                    </div>
+                </div>
+                <!-- Item -->
+            </div>     
+        </div>
+        <!-- Banner Ends Here -->
+
+        <div class="request-form">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <h4> Hello </h4>
+                        <span> I don't want to be a good per, I want to be rich.</span>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="contact.php" class="border-button">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+            </div>
