@@ -100,5 +100,73 @@ if (isset($_SESSION['user_login'])) {
             </div>
           </div>
         </div>
-        
 
+        <div class="contact-information">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-4">
+                <div class="contact-item">
+                  <i class="fa fa-phone"></i>
+                  <h4>Phone</h4>
+                  <p>เจนรักหมู</p>
+                  <a href="#">+1 333 4040 5566</a>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="contact-item">
+                  <i class="fa fa-envelope"></i>
+                  <h4>Email</h4>
+                  <p>Inbox 24 ชั่วโมง</p>
+                  <a href="#">contact@Ezgg.com</a>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="contact-item">
+                  <i class="fa fa-map-marker"></i>
+                  <h4>Location</h4>
+                  <p>404 ปราจีนบุรี อำเภอเมือง ตำบล เนินหอม <br> ประเทศไทย</p>
+                </div>
+              </div>  
+            </div>
+          </div>
+        </div>
+
+        <div id="map">
+
+</div>
+
+        <div class="sub-footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <p>
+                    cryptocurrency @ 2020 NFT
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Bootstrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+        <!-- Additional Scripts -->
+        <script src="assets/js/custom.js"></script>
+        <script src="assets/js/owl.js"></script>
+        <script src="assets/js/slick.js"></script>
+        <script src="assets/js/accordions.js"></script>
+
+        <script language = "text/Javascript">
+          cleared[0] = cleared[1] = cleared[2] =0; //set a cleared flag for each field
+          function clearField(t){                  //declaring the array outside of the
+          if(! cleared[t,id]){                     // function makes it static and global
+              cleared[t,id] = 1;  // you could use true and false, but that's more typing
+              t.value='';         // with more chance of typos
+              t.style.color='#fff';
+              }
+          }
+        </script>
+
+    </body>
+</html>
