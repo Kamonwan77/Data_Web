@@ -35,10 +35,10 @@ $_SESSION['error'] = 'nonesuu!'; header('location: signin.php');
 
 if (isset($_SESSION['admin_login'])) {
 
-$admin_id = $_SESSION['admin_login'];
+$user_id = $_SESSION['user_login'];
 
-$stmt = $conn->query("SELECT FROM users WHERE id = $admin_id"); $row = $stmt->fetch(PDO::FETCH_ASSOC);
-
+$stmt = $conn->query("SELECT FROM users WHERE id = $user_id"); 
+$row = $stmt->fetch(PDO::FETCH_ASSOC);
 $stmt->execute();
 
 }
