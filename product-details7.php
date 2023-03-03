@@ -88,7 +88,7 @@
         </div>
         <div class="services">
           <div class="container">
-            < class="row">
+            <div class="row">
             <div class="col-md-7">
               <div>
                 <img src="assets/imges/product6.jpg" alt="" width="500" height="750" class="img-fluid wc-image">
@@ -100,9 +100,8 @@
                 <div class="sidebar-heading">
                   <h4>ข้อมูลรูปภาพ</h4>
                 </div>
-
                 <div class="content">
-                  <p>หมาขนปุ่ย</p>
+                  <p>กุอกหัก</p>
                 </div>
               </div>
               <br>
@@ -128,10 +127,9 @@
           </div>
           <br>
           <h4>รายละเอียด</h4>
-          <p>ภาพนิ่งของหมาตัวหนึ่ง</p>
+          <p>ภาพไม่น่าชม หาได้ยาก</p>
           <br>
-          <p>เป็นภาพหมาขนปุ่ยสีขาว</p>
-          <br>
+          <p>เเป็นภาพเจนสวยมาก</p>
           <br>
           <br>
           <br>
@@ -152,7 +150,6 @@
       <!-- Bootstrap core JavaScript -->
       <script src="vendor/jquery/dist/jquery.min.js"></script>
       <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
       <!-- Additional Scripts -->
       <script src="assets/js/custom.js"></script>
       <script src="assets/js/owl.js"></script>
