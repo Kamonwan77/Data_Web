@@ -17,7 +17,7 @@
     </head>
     <body>
         <!-- ***** Preloader Start ***** -->
-    <   div id="preloader">
+        <div id="preloader">
             <div class="jumper">
                 <div></div>
                 <div></div>
