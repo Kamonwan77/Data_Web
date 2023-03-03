@@ -2,24 +2,19 @@
 <html lang="en">
 
     <head>
-
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
         <meta name="author" content="">
         <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
-
         <tiktie>NFT Website</title>
-
         <!-- Bootstrap core css -->
         <link href="vendor/bootstrap/css/bootatrap.min.css" rel="stylesheet">
-
         <!-- Additional core css -->
         <link rel="stylesheet" href="assets/css/fontawesome.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/owl.css">
     </head>
-
     <body>
         <!-- Header -->
         <div class="sub-header">
@@ -41,7 +36,6 @@
                 </div>
             </div>
         </div>
-
         <header class="">
             <nav class="navbar navbar-expand-lg">
               <div class="container">
@@ -70,77 +64,51 @@
               </div>
             </nav>
         </header>
-
         <!-- Page Content -->
-        <!-- Banner Starts Here -->
-        <div class="main-banner header-text" id="top">
-            <div class="container">
-                <!-- Item -->
-                <div class="item item-1">
-                    <div class="img-fill">
-                        <div class="text-content">
-                        </div>     
-                    </div>
-                </div>
-                <!-- // Item -->
-                <!-- Item -->
-                <div class="item item-2">
-                    <div class="img-fill">
-                        <div class="text-content">
-                        </div>     
-                    </div>
-                </div>
-                <!-- // Item -->
-                <!-- Item -->
-                <div class="item item-3">
-                    <div class="img-fill">
-                        <div class="text-content">
-                        </div>     
-                    </div>
-                </div>
-                <!-- Item -->
-            </div>     
-        </div>
-        <!-- Banner Ends Here -->
-
-        <div class="request-form">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8">
-                        <h4> Hello </h4>
-                        <span> I don't want to be a good per, I want to be rich.</span>
-                    </div>
-                    <div class="col-md-4">
-                        <a href="contact.php" class="border-button">Contact Us</a>
-                    </div>
-                </div>
+        <div class="page-heading header-text">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12"> 
+                <h1>Contact Us</h1>
+                <span>Hello</span>
+              </div>
             </div>
+          </div>
         </div>
-
-        <div class="services">
+         <div class="service">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
-                        <div class="section-heading">
-                            <h2>Featured<em>Products</em></h2>
-                            <span>สินค้า NFT แนะนำสำหรับท่านสมาชิก</span>
-                        </div>
-                    </div>
                     <div class="col-md-4">
                         <div class="service-item">
                             <img src="assets/images/product1.jpg" alt="" width="100" height="450">
                             <div class="down-content">
                                 <h4> Hello </h4>
                                 <div style="margin-bottom:10px;">
-                                    <<span> <del><sup>$</sup>200.00</del> <sup>$</sup>1999.00 </span>
+                                    <span> 
+                                        <del><sup>$</sup>2000.00</del> <sup>$</sup>1999.00 
+                                    </span>
                                 </div>
-                                
                                 <p> เจนอกหัก </p><br>
-                                <a href="product-details.php" class="filled-button">View More</a>
+                                <a href="product-details.php" class="filled-button" name="quantity" value="1" size="2">View More</a>
                             </div>
                         </div>
-
-                        </br>
+                        <br>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="assets/images/product2.jpg" alt="" width="100" height="450">
+                            <div class="down-content">
+                                <h4> Hello </h4>
+                                <div style="margin-bottom:10px;">
+                                    <span> 
+                                        <del><sup>$</sup>1999.00</del> <sup>$</sup>1779.00 
+                                    </span>
+                                </div>
+                                <p> เจนอกหัก </p>
+                                <a href="product-details2.php" class="filled-button">View More</a>
+                            </div>
+                        </div>
+                        <br>
                     </div>
                     <div class="col-md-4">
                         <div class="service-item">
@@ -148,15 +116,15 @@
                             <div class="down-content">
                                 <h4> Hello </h4>
                                 <div style="margin-bottom:10px;">
-                                    <span> <del><sup>$</sup>999,000,000,000,000</del> <sup>$</sup>100,000,000,000,000 </span>
+                                    <span> 
+                                        <del><sup>$</sup>9,000,000.00</del> <sup>$</sup>1,000,000.00 
+                                    </span>
                                 </div>
-                                    
-                                <p> เจนอกหัก </p><br>
+                                <p> เจนอกหัก </p>
                                 <a href="product-details2.php" class="filled-button">View More</a>
                             </div>
                         </div>
-
-                        </br>
+                        <br>
                     </div>
                     <div class="col-md-4">
                         <div class="service-item">
@@ -164,97 +132,94 @@
                             <div class="down-content">
                                 <h4> Hello </h4>
                                 <div style="margin-bottom:10px;">
-                                    <span> <del><sup>$</sup>2000.00</del> <sup>$</sup>1000.00</span>
+                                    <span> 
+                                        <del><sup>$</sup>2000.00</del> <sup>$</sup>1000.00 
+                                    </span>
                                 </div>
-                                    
-                                <p> เจนอกหัก </p><br>
+                                <p> เจนอกหัก </p>
                                 <a href="product-details3.php" class="filled-button">View More</a>
                             </div>
                         </div>
-
+                        <br>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="assets/images/product5.jpg" alt="" width="100" height="450">
+                            <div class="down-content">
+                                <h4> Hello </h4>
+                                <div style="margin-bottom:10px;">
+                                    <span> 
+                                        <del><sup>$</sup>1999</del> <sup>$</sup>1779
+                                    </span>
+                                </div>
+                                <p> เจนอกหัก </p>
+                                <a href="product-details4.php" class="filled-button">View More</a>
+                            </div>
+                        </div>
+                        <br>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="assets/images/product6.jpg" alt="" width="100" height="450">
+                            <div class="down-content">
+                                <h4> Hello </h4>
+                                <div style="margin-bottom:10px;">
+                                    <span> 
+                                        <del><sup>$</sup>1999</del> <sup>$</sup>120
+                                    </span>
+                                </div>
+                                <p> เจนอกหัก </p>
+                                <a href="product-details5.php" class="filled-button">View More</a>
+                            </div>
+                        </div>
                         <br>
                     </div>
                 </div>
+                <br>
+                <br>
+                <nav>
+                    <ul class="pagination pagination.lg justify-content-center">
+                        <li class="page-item">
+                            <a class="page-link" href="products.php" aria-aria-label="Previous">
+                                <span aria-hidden="true">..</span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                        </li>    
+                        <li class="page-item"><a class="page-link" href="products.php">1</a></li>
+                        <li class="page-item"><a class="page-link" href="products.php">2</a></li>
+                        <li class="page-item">
+                            <a class="page-link" href="products.php" aria-aria-label="Neat">
+                                <span aria-hidden="true">..</span>
+                                <span class="sr-only">Next</span>
+                            </a>      
+                        </li>
+                    </ul>
+                </nav>
+                <br>
+                <br>
+                <br>
+                <br>
             </div>
         </div>
-
-        <div class="testimonials">
+        <div class="subfooter">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
-                        <div class="section-heading">
-                            <h2>ยินดีต้อนรับ<em>ท่านสมาชิก</em></h2>
-                            <span>มาทำความรู้จักสมาชิกงานนี้ทุกคน</span>
-                        </div>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="owl-testimonials owl-carousel">
-
-                            <div class="testimonials-item">
-                                <div class="inner-content">
-                                    <h4> นางสาวกมลวรรณ จันทร์มณี </h4>
-                                    <span> คนสวยประจำกลุ่ม </span>
-                                    <p> คำคม.............
-                                         </p>
-                                </div>
-                                <img src="">   
-                            </div>
-
-                            <div class="testimonials-item">
-                                <div class="inner-content">
-                                    <h4> นางสาวปัณฑิตา ช่วงชาวนา </h4>
-                                    <span> อกหักจากหมูอยู่ </span>
-                                    <p> คำคม............ </p>
-                                </div>
-                                <img src="">   
-                            </div>
-
-                            <div class="testimonials-item">
-                                <div class="inner-content">
-                                    <h4> นางสาวรวิพร สรวมศิริ </h4>
-                                    <span> รักผัวหลงผัวที่สุดในโลก </span>
-                                    <p> คำคม.............</p>
-                                </div>
-                                <img src="">   
-                            </div>
-
-                             <div class="testimonials-item">
-                                <div class="inner-content">
-                                    <h4> นางสาวมาธวี รอบคอบ </h4>
-                                    <span> มีผัวแล้วแต่คนไหนไม่รู้ </span>
-                                    <p> คำคม.............</p>
-                                </div>
-                                <img src="">   
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-       <div class="subfooter">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-17"> 
+                    <div class="col-md-12"> 
                         <p>
                             cryptocurrency @ 2020 NFT
-
                         </p>
                     </div>
                 </div>
             </div>
         </div>
-
         <!-- Bootsrap core JavaScript -->
         <script src="vendor/jquery/jquery.min.js"></script>
-
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
         <!-- Additomal Scripts -->
         <script src="assets/js/custom.js"></script>
         <script src="assets/js/qwl.js"></script>
         <script src="assets/js/slick.js"></script>
         <script src="assets/js/accordions.js"></script>
-
         <script language = "text/Javascript">
             cleared[0] = cleared[1] = cleared[2] = 0;
             function clearfield(t){
@@ -265,6 +230,5 @@
                 }
             }
         </script>
-
     </body>
 </html>
