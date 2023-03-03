@@ -164,7 +164,7 @@
             t.style.color='#fff';
             }
         }
-      </script>
-    </body>
+    </script>
+  </body>
 </html>
     
