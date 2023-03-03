@@ -115,8 +115,77 @@
                     </div>
                 </div>
             </div>
-            </div>
+        </div>
 
-            <div class="services">
-                <div class="container">
-                    
+        <div class="services">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-heading">
+                            <h2>Featured<em>Products</em></h2>
+                            <span>สินค้า NFT แนะนำสำหรับท่านสมาชิก</span>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="assets/images/product1.jpg" alt="" width="100" height="450">
+                            <div class="down-content">
+                                <h4> Hello </h4>
+                                <div style="margin-bottom:10px;">
+                                    <<span> <del><sup>$</sup>200.00</del> <sup>$</sup>1999.00 </span>
+                                </div>
+                                
+                                <p> เจนอกหัก </p><br>
+                                <a href="product-details.php" class="filled-button">View More</a>
+                            </div>
+                        </div>
+
+                        </br>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="assets/images/product3.jpg" alt="" width="100" height="450">
+                            <div class="down-content">
+                                <h4> Hello </h4>
+                                <div style="margin-bottom:10px;">
+                                    <<span> <del><sup>$</sup>999,000,000,000,000</del> <sup>$</sup>100,000,000,000,000 </span>
+                                </div>
+                                    
+                                <p> เจนอกหัก </p><br>
+                                <a href="product-details2.php" class="filled-button">View More</a>
+                            </div>
+                        </div>
+
+                        </br>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="assets/images/product4.jpg" alt="" width="100" height="450">
+                            <div class="down-content">
+                                <h4> Hello </h4>
+                                <div style="margin-bottom:10px;">
+                                    <<span> <del><sup>$</sup>2000.00</del> <sup>$</sup>1000.00</span>
+                                </div>
+                                    
+                                <p> เจนอกหัก </p><br>
+                                <a href="product-details3.php" class="filled-button">View More</a>
+                            </div>
+                        </div>
+
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="services">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-heading">
+                            <h2>Featured<em>Products</em></h2>
+                            <span>สินค้า NFT แนะนำสำหรับท่านสมาชิก</span>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="service-item">
