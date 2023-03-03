@@ -46,7 +46,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                   <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                      <a class="nav-link" href="index.php">Home 
+                      <a class="nav-link" href="home.php">Home 
                         <span class="sr-only">(current)</span>
                       </a>
                     </li>
@@ -69,8 +69,8 @@
           <div class="container">
             <div class="row">
               <div class="col-md-12"> 
-                <h1>Contact Us</h1>
-                <span>Hello</span>
+                <h1>Product</h1>
+                <span>สินค้าคุณภาพ</span>
               </div>
             </div>
           </div>
@@ -85,11 +85,11 @@
                                 <h4> Hello </h4>
                                 <div style="margin-bottom:10px;">
                                     <span> 
-                                        <del><sup>$</sup>2000.00</del> <sup>$</sup>1999.00 
+                                        <del><sup>$</sup>1500</del> <sup>$</sup>750 
                                     </span>
                                 </div>
                                 <p> เจนอกหัก </p><br>
-                                <a href="product-details.php" class="filled-button" name="quantity" value="1" size="2">View More</a>
+                                <a href="product-details6.php" class="filled-button">View More</a>
                             </div>
                         </div>
                         <br>
@@ -101,9 +101,10 @@
                                 <h4> Hello </h4>
                                 <div style="margin-bottom:10px;">
                                     <span> 
-                                        <del><sup>$</sup>1999.00</del> <sup>$</sup>1779.00 
+                                        <del><sup>$</sup>3000</del> <sup>$</sup>2500
                                     </span>
                                 </div>
+                                
                                 <p> เจนอกหัก </p>
                                 <a href="product-details2.php" class="filled-button">View More</a>
                             </div>
@@ -112,67 +113,19 @@
                     </div>
                     <div class="col-md-4">
                         <div class="service-item">
-                            <img src="assets/images/product3.jpg" alt="" width="100" height="450">
+                            <img src="assets/images/product9.jpg" alt="" width="100" height="450">
                             <div class="down-content">
                                 <h4> Hello </h4>
                                 <div style="margin-bottom:10px;">
                                     <span> 
-                                        <del><sup>$</sup>9,000,000.00</del> <sup>$</sup>1,000,000.00 
+                                        <del><sup>$</sup>400</del> <sup>$</sup>200
                                     </span>
                                 </div>
                                 <p> เจนอกหัก </p>
-                                <a href="product-details2.php" class="filled-button">View More</a>
+                                <a href="product-details8.php" class="filled-button">View More</a>
                             </div>
                         </div>
-                        <br>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="assets/images/product4.jpg" alt="" width="100" height="450">
-                            <div class="down-content">
-                                <h4> Hello </h4>
-                                <div style="margin-bottom:10px;">
-                                    <span> 
-                                        <del><sup>$</sup>2000.00</del> <sup>$</sup>1000.00 
-                                    </span>
-                                </div>
-                                <p> เจนอกหัก </p>
-                                <a href="product-details3.php" class="filled-button">View More</a>
-                            </div>
-                        </div>
-                        <br>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="assets/images/product5.jpg" alt="" width="100" height="450">
-                            <div class="down-content">
-                                <h4> Hello </h4>
-                                <div style="margin-bottom:10px;">
-                                    <span> 
-                                        <del><sup>$</sup>1999</del> <sup>$</sup>1779
-                                    </span>
-                                </div>
-                                <p> เจนอกหัก </p>
-                                <a href="product-details4.php" class="filled-button">View More</a>
-                            </div>
-                        </div>
-                        <br>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="assets/images/product6.jpg" alt="" width="100" height="450">
-                            <div class="down-content">
-                                <h4> Hello </h4>
-                                <div style="margin-bottom:10px;">
-                                    <span> 
-                                        <del><sup>$</sup>1999</del> <sup>$</sup>120
-                                    </span>
-                                </div>
-                                <p> เจนอกหัก </p>
-                                <a href="product-details5.php" class="filled-button">View More</a>
-                            </div>
-                        </div>
-                        <br>
+                        </br>
                     </div>
                 </div>
                 <br>
