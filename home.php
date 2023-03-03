@@ -178,14 +178,93 @@
             </div>
         </div>
 
-        <div class="services">
+        <div class="testimonials">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-heading">
-                            <h2>Featured<em>Products</em></h2>
-                            <span>สินค้า NFT แนะนำสำหรับท่านสมาชิก</span>
+                            <h2>ยินดีต้อนรับ<em>ท่านสมาชิก</em></h2>
+                            <span>มาทำความรู้จักสมาชิกงานนี้ทุกคน</span>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="service-item">
+                    <div class="col-md-12">
+                        <div class="owl-testimonials owl-carousel">
+
+                            <div class="testimonials-item">
+                                <div class="inner-content">
+                                    <h4> นางสาวกมลวรรณ จันทร์มณี </h4>
+                                    <span> คนสวยประจำกลุ่ม </span>
+                                    <p> คำคม.............
+                                         </p>
+                                </div>
+                                <img src="">   
+                            </div>
+
+                            <div class="testimonials-item">
+                                <div class="inner-content">
+                                    <h4> นางสาวปัณฑิตา ช่วงชาวนา </h4>
+                                    <span> อกหักจากหมูอยู่ </span>
+                                    <p> คำคม............ </p>
+                                </div>
+                                <img src="">   
+                            </div>
+
+                            <div class="testimonials-item">
+                                <div class="inner-content">
+                                    <h4> นางสาวรวิพร สรวมศิริ </h4>
+                                    <span> รักผัวหลงผัวที่สุดในโลก </span>
+                                    <p> คำคม.............</p>
+                                </div>
+                                <img src="">   
+                            </div>
+
+                             <div class="testimonials-item">
+                                <div class="inner-content">
+                                    <h4> นางสาวมาธวี รอบคอบ </h4>
+                                    <span> มีผัวแล้วแต่คนไหนไม่รู้ </span>
+                                    <p> คำคม.............</p>
+                                </div>
+                                <img src="">   
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       <div class="subfooter">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-17"> 
+                        <p>
+                            cryptocurrency @ 2020 NFT
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bootsrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+
+        <!-- Additomal Scripts -->
+        <script src="assets/js/custom.js"></script>
+        <script src="assets/js/qwl.js"></script>
+        <script src="assets/js/slick.js"></script>
+        <script src="assets/js/accordions.js"></script>
+
+        <script language = "text/Javascript">
+            cleared[0] = cleared[1] = cleared[2] = 0;
+            function clearfield(t){
+                if (! cleared[t.id]){
+                    cleared[t.id] = 1;
+                    t.value='';
+                    t.style.color='#fff';
+                }
+            }
+        </script>
+
+    </body>
+</html>
