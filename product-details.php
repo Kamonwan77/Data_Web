@@ -170,7 +170,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p>
-                            Cryptocurrency @ 2020 NFT
+                            Cryptocurrency © 2020 NFT
                         </p>
                     </div>
                 </div>
