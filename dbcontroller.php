@@ -1,6 +1,6 @@
 <?php
 class DBController {
-    private $host = "localhost";
+    private $host = "localhost:3307";
     private $user = "root";
     private $password = "";
     private $database = "registration_system";
